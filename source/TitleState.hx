@@ -245,7 +245,7 @@ class TitleState extends MusicBeatState
 			// music.play();
 
 			if(FlxG.sound.music == null) {
-				FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
+				FlxG.sound.playMusic(Paths.music('OpenYourHeartMJzMi-SonicGemsCollection'), 0);
 
 				FlxG.sound.music.fadeIn(4, 0, 0.7);
 			}
